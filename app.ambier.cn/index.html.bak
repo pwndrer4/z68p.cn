@@ -106,7 +106,7 @@ function download1(id,url) {
         <script src="IOS-JSandCSS/sweetalert.min.js"></script>
         <script type="text/javascript">
  swal({title: "证书状态：正常",
-  text: "微信公众号：野心玩家\n\n免费分享仅供学习·请勿非法盈利贩卖\n\n 更新日志 \n\n卸载重装即可，新增应用",
+  text: "微信公众号：野心玩家\n\n免费分享仅供学习·请勿非法盈利贩卖\n\n⚠️ 更新日志 ⚠️\n\n卸载重装即可，新增应用",
   imageUrl: '/img/tcicon.png'//弹窗图标
  });
 </script>
@@ -184,7 +184,7 @@ function download1(id,url) {
 <div class="preloader"></div>
 </div>
 <div class="content-block">
-<h1 class="header" style="margin-top:0px; margin-bottom:0px;">旗下网站</h1>
+<h1 class="header" style="margin-top:0px; margin-bottom:0px;">旗下网站🏴</h1>
 <div class="hr"></div>
 <div class="block">
 <p class="row"><span style="width: calc((100% - 15px*1) / 2);"><a href="javascript:;" class="button button-fill button-big color-blue external">UDID定制</a></span> <span style="width: calc((100% - 15px*1) / 2);"><a href="javascript:;" class="button button-fill button-big color-pink external">最新动态</a></span></p>
@@ -198,7 +198,7 @@ function download1(id,url) {
 <div class="item-content">
 <div class="item-inner">
 <div class="item-title">
-<h4 style="margin-left: 12px; text-align:left;">越狱工具</h4>
+<h4 style="margin-left: 12px; text-align:left;">越狱工具🏴</h4>
 </div>
 <div class="item-after" style="color:#007AFF; margin-right:12px;"><a href="javascript:;">往下查看</a></div>
 </div>
@@ -219,7 +219,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">Odyssey-B2</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(3,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/Odyssey.plist')" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(3,'itms-services://?action=download-manifest&url=https://ambier.net/plist/Odyssey.plist')" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
  <!--<a href="https://udid.ambier.net" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">定制</a>-->
 </div>
 </div>
@@ -235,7 +235,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">Unc0ver-V5.3.1</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(2,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/Unc0ver.plist')" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(2,'itms-services://?action=download-manifest&url=https://ambier.net/plist/Unc0ver.plist')" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
  <!--<a href="https://udid.ambier.net" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">定制</a>-->
 </div>
 </div>
@@ -251,7 +251,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">Chimera-1.4.0</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(1,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/Chimera.plist')" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(1,'itms-services://?action=download-manifest&url=https://ambier.net/plist/Chimera.plist')" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
  <!--<a href="https://udid.ambier.net" class="button button-fill button color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">定制</a>-->
 </div>
 </div>
@@ -300,7 +300,7 @@ function download1(id,url) {
 <div class="preloader"></div>
 </div>
 <div class="content-block" style="margin-top:-24px;">
-<h1 class="header" style="margin-top:0px; margin-bottom:0px;">苹果·APP区</h1>
+<h1 class="header" style="margin-top:0px; margin-bottom:0px;">苹果·APP区🏴</h1>
 <form data-search-list=".list-block-search" data-search-in=".item-title" class="searchbar searchbar-init" style="padding:0px;">
 <div class="searchbar-input">
  <input type="search" style="background-color:#e8e8ea;" placeholder="输入想安装的App名称"><a href="#" class="searchbar-clear"></a>
@@ -312,7 +312,7 @@ function download1(id,url) {
 <div class="content-block-inner">很抱歉·暂时没有找到该App·可以尝试联系站长上架.</div>
 </div>
 <div class="list-block media-list list-block-search searchbar-found">
- <p>&nbsp;&nbsp;&nbsp;催更姿势：公众号文章底部广告每天点一下</p>
+ <p>&nbsp;&nbsp;&nbsp;⚠️催更姿势：公众号文章底部广告每天点一下</p>
   <br>
 <!--<ul>
 <li>
@@ -357,7 +357,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">影视大全</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(110,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/yingshidaquan.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(110,'itms-services://?action=download-manifest&url=https://ambier.net/plist/yingshidaquan.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">去全局AD</div>
@@ -375,7 +375,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">桃子视频</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(109,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/taozishipin.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(109,'itms-services://?action=download-manifest&url=https://ambier.net/plist/taozishipin.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已解锁会员权限</div>
@@ -393,7 +393,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">自由岛</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(104,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/ziyoudao.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(104,'itms-services://?action=download-manifest&url=https://ambier.net/plist/ziyoudao.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解除观看权限</div>
@@ -411,7 +411,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">白鲨听书</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(102,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/baishatingshu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(102,'itms-services://?action=download-manifest&url=https://ambier.net/plist/baishatingshu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">去除全局AD</div>
@@ -429,7 +429,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">荟聚动漫</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(99,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/huijudongman.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(99,'itms-services://?action=download-manifest&url=https://ambier.net/plist/huijudongman.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去全局AD</div>
@@ -447,7 +447,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">樊登读书</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(98,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/fandengdushu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(98,'itms-services://?action=download-manifest&url=https://ambier.net/plist/fandengdushu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已解锁会员权限·自行登录</div>
@@ -465,7 +465,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">大象播放器</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(81,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/daxiangbofangqi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(81,'itms-services://?action=download-manifest&url=https://ambier.net/plist/daxiangbofangqi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">去除全局AD</div>
@@ -483,7 +483,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">卧龙影视</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(70,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/wolongyingshi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(70,'itms-services://?action=download-manifest&url=https://ambier.net/plist/wolongyingshi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去所有的AD</div>
@@ -501,7 +501,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">小小格斗士</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(69,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/xiaoxiaogedoushi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(69,'itms-services://?action=download-manifest&url=https://ambier.net/plist/xiaoxiaogedoushi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">加强伤害，低系统可能会闪退</div>
@@ -519,7 +519,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">合金弹头</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(68,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/hejindantou.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(68,'itms-services://?action=download-manifest&url=https://ambier.net/plist/hejindantou.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">AppStore需要18人民币，这里直接安装</div>
@@ -537,7 +537,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">行走大师</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(67,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/xingzoudashi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(67,'itms-services://?action=download-manifest&url=https://ambier.net/plist/xingzoudashi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">内Gou版，十分考验协调度的游戏</div>
@@ -555,10 +555,10 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">僵尸前沿3</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(61,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/jiangshiqianyan3.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(61,'itms-services://?action=download-manifest&url=https://ambier.net/plist/jiangshiqianyan3.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
-<div class="item-subtitle">无线金币和砖石o很解压</div>
+<div class="item-subtitle">无线金币和砖石•很解压</div>
 <div class="item-subtitle">类型：游戏&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所需空间：78.3MB</div>
 </div>
 </div>
@@ -573,10 +573,10 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">饥饿鲨世界</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(60,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/jieshashijie.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(60,'itms-services://?action=download-manifest&url=https://ambier.net/plist/jieshashijie.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
-<div class="item-subtitle">内购版o弹窗点取消即可</div>
+<div class="item-subtitle">内购版•弹窗点取消即可</div>
 <div class="item-subtitle">类型：游戏&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所需空间：137.8MB</div>
 </div>
 </div>
@@ -591,10 +591,10 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">火炮消消乐</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(59,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/huopaoxiaoxiaole.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(59,'itms-services://?action=download-manifest&url=https://ambier.net/plist/huopaoxiaoxiaole.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
-<div class="item-subtitle">金币越用越多o无AD</div>
+<div class="item-subtitle">金币越用越多•无AD</div>
 <div class="item-subtitle">类型：游戏&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所需空间：53.1MB</div>
 </div>
 </div>
@@ -609,7 +609,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">小影</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(58,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/xiaoying.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(58,'itms-services://?action=download-manifest&url=https://ambier.net/plist/xiaoying.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁所有会员权限</div>
@@ -627,7 +627,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">陆琪讲故事</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(57,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/luqijianggushi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(57,'itms-services://?action=download-manifest&url=https://ambier.net/plist/luqijianggushi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">选择微信登录即可解锁会员</div>
@@ -645,7 +645,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">TikTok</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(55,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/tiktok.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(55,'itms-services://?action=download-manifest&url=https://ambier.net/plist/tiktok.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">支持换区·无水印保存·解除科学上网</div>
@@ -663,10 +663,10 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">抖音短视频</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(54,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/douyin.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(54,'itms-services://?action=download-manifest&url=https://ambier.net/plist/douyin.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
-<div class="item-subtitle">去启动ADo保存无水印o开启自动播放</div>
+<div class="item-subtitle">去启动AD•保存无水印•开启自动播放</div>
 <div class="item-subtitle">类型：娱乐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所需空间：104MB</div>
 </div>
 </div>
@@ -681,7 +681,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">扫描王</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(53,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/saomiaowang.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(53,'itms-services://?action=download-manifest&url=https://ambier.net/plist/saomiaowang.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">无需登录解锁VIP权限</div>
@@ -699,7 +699,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">歪一点</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(52,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/waiyidian.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(52,'itms-services://?action=download-manifest&url=https://ambier.net/plist/waiyidian.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">完美去水印保存·需自行登录</div>
@@ -717,7 +717,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">阿哥美剧</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(50,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/agemeiju.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(50,'itms-services://?action=download-manifest&url=https://ambier.net/plist/agemeiju.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">去除所有广告·解锁观影特权</div>
@@ -735,7 +735,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">VUE</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(48,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/vue.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(48,'itms-services://?action=download-manifest&url=https://ambier.net/plist/vue.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁订阅·自行登录账号</div>
@@ -753,7 +753,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">甜橙韩剧</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(44,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/tianchenhanju.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(44,'itms-services://?action=download-manifest&url=https://ambier.net/plist/tianchenhanju.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁会员原画权限·去广告</div>
@@ -771,7 +771,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">MIX</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(36,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/MIX.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(36,'itms-services://?action=download-manifest&url=https://ambier.net/plist/MIX.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">开启会员权限·解锁付费模版</div>
@@ -789,7 +789,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">疯狂塔防</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(34,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/fengkuangtafang.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(34,'itms-services://?action=download-manifest&url=https://ambier.net/plist/fengkuangtafang.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁内购·内购可能闪退·重进即可</div>
@@ -807,7 +807,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">抖拍</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(33,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/doupai.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(33,'itms-services://?action=download-manifest&url=https://ambier.net/plist/doupai.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">开启会员权限·纯净版</div>
@@ -825,7 +825,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">大片</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(32,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/ios_Bigshot.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(32,'itms-services://?action=download-manifest&url=https://ambier.net/plist/ios_Bigshot.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">开启会员权限</div>
@@ -843,7 +843,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">天天美剧</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(31,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/tiantianmeiju.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(31,'itms-services://?action=download-manifest&url=https://ambier.net/plist/tiantianmeiju.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去广告</div>
@@ -861,7 +861,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">GIF制作器</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(30,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/gifzhizuoqi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(30,'itms-services://?action=download-manifest&url=https://ambier.net/plist/gifzhizuoqi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">开启高级权限</div>
@@ -879,7 +879,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">小红书</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(29,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/xiaohongshu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(29,'itms-services://?action=download-manifest&url=https://ambier.net/plist/xiaohongshu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">保存相册去水印</div>
@@ -897,7 +897,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">南瓜影视</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(28,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/nanguayingshi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(28,'itms-services://?action=download-manifest&url=https://ambier.net/plist/nanguayingshi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">开启会员权限·无广告版本</div>
@@ -915,7 +915,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">小明计算器</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(27,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/xiaomingjisuanqi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(27,'itms-services://?action=download-manifest&url=https://ambier.net/plist/xiaomingjisuanqi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁会员权限</div>
@@ -933,7 +933,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">YouTube</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(26,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/YouTube.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(26,'itms-services://?action=download-manifest&url=https://ambier.net/plist/YouTube.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去广告</div>
@@ -951,7 +951,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">动漫之家</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(25,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/dongmanzhijia.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(25,'itms-services://?action=download-manifest&url=https://ambier.net/plist/dongmanzhijia.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去广告</div>
@@ -969,7 +969,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">InShot</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(24,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/ios_InShot.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(24,'itms-services://?action=download-manifest&url=https://ambier.net/plist/ios_InShot.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁Pro权限</div>
@@ -987,7 +987,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">小小影视</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(23,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/xiaoxiaoyingshi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(23,'itms-services://?action=download-manifest&url=https://ambier.net/plist/xiaoxiaoyingshi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解除观看次数·内置账户来源群友</div>
@@ -1005,7 +1005,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">皮皮虾Pro</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(22,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/pipixiapro.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(22,'itms-services://?action=download-manifest&url=https://ambier.net/plist/pipixiapro.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">去广告和部分下载水印</div>
@@ -1023,7 +1023,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">清爽视频编辑</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(21,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/qingshuangshipinbianji.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(21,'itms-services://?action=download-manifest&url=https://ambier.net/plist/qingshuangshipinbianji.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁会员权限</div>
@@ -1041,7 +1041,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">花椒视频</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(20,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/huajiaoshipin.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(20,'itms-services://?action=download-manifest&url=https://ambier.net/plist/huajiaoshipin.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁VIP限制·无限观看下载</div>
@@ -1059,7 +1059,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">撸先生</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(19,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/lusir.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(19,'itms-services://?action=download-manifest&url=https://ambier.net/plist/lusir.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解除观看次数限制</div>
@@ -1077,7 +1077,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">恋爱聊天话术</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(18,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/lianailiaotianhuashu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(18,'itms-services://?action=download-manifest&url=https://ambier.net/plist/lianailiaotianhuashu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">撩妹话术专用APP</div>
@@ -1095,7 +1095,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">酷我音乐</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(17,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/kuwoyinyue.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(17,'itms-services://?action=download-manifest&url=https://ambier.net/plist/kuwoyinyue.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">可突破权限下载付费歌曲</div>
@@ -1113,7 +1113,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">QQ</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(16,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/qq.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(16,'itms-services://?action=download-manifest&url=https://ambier.net/plist/qq.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">修改机型、秒、防撤回及闪照</div>
@@ -1131,7 +1131,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">石头阅读</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(15,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/shitouyuedu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(15,'itms-services://?action=download-manifest&url=https://ambier.net/plist/shitouyuedu.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去广告</div>
@@ -1149,7 +1149,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">羞羞漫画</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(14,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/xiuxiumanhua.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(14,'itms-services://?action=download-manifest&url=https://ambier.net/plist/xiuxiumanhua.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">登录账号就是VIP</div>
@@ -1167,7 +1167,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">Intro Maker</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(13,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/IntroMaker.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(13,'itms-services://?action=download-manifest&url=https://ambier.net/plist/IntroMaker.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已解锁会员权限</div>
@@ -1185,7 +1185,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">番茄影视</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(12,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net//plist/fanqieyingshi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(12,'itms-services://?action=download-manifest&url=https://ambier.net//plist/fanqieyingshi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去广告</div>
@@ -1203,7 +1203,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">元气骑士</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(11,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/yuanqiqishi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(11,'itms-services://?action=download-manifest&url=https://ambier.net/plist/yuanqiqishi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁内购</div>
@@ -1221,7 +1221,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">威锋</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(10,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/weifeng.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(10,'itms-services://?action=download-manifest&url=https://ambier.net/plist/weifeng.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去广告</div>
@@ -1239,7 +1239,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">DJ多多</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(9,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/djduoduo.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(9,'itms-services://?action=download-manifest&url=https://ambier.net/plist/djduoduo.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">登录账号既是VIP·自动去广告</div>
@@ -1257,7 +1257,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">人人影迷</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(8,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/renrenyingmi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(8,'itms-services://?action=download-manifest&url=https://ambier.net/plist/renrenyingmi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去所有的广告</div>
@@ -1275,7 +1275,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">黑匣子Player</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(7,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/heixiazi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(7,'itms-services://?action=download-manifest&url=https://ambier.net/plist/heixiazi.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已去所有的广告</div>
@@ -1293,7 +1293,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">奇热小说</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(6,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/qirexiaoshuo.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(6,'itms-services://?action=download-manifest&url=https://ambier.net/plist/qirexiaoshuo.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">登录就是会员·解锁付费模块</div>
@@ -1311,7 +1311,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">墨墨背单词</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(5,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/momobeidanci.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(5,'itms-services://?action=download-manifest&url=https://ambier.net/plist/momobeidanci.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">解锁全功能无限制</div>
@@ -1329,7 +1329,7 @@ function download1(id,url) {
 <div class="item-title-row">
 <div class="item-title">水印精灵</div>
 <div class="item-after">
-<a href="javascript:void(0)" onclick="download1(4,'http://apt.frp.aiuyo.com:8680/ads.php?url=https://ambier.net/plist/shuiyinjingling.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
+<a href="javascript:void(0)" onclick="download1(4,'itms-services://?action=download-manifest&url=https://ambier.net/plist/shuiyinjingling.plist')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
 <div class="item-subtitle">已解锁会员权限</div>
@@ -1354,7 +1354,7 @@ function download1(id,url) {
 <div class="preloader"></div>
 </div>
 <div class="content-block" style="margin-top:-24px;">
-<h1 class="header" style="margin-top:0px; margin-bottom:0px;">安卓·APP区</h1>
+<h1 class="header" style="margin-top:0px; margin-bottom:0px;">安卓·APP区🏴</h1>
 <form data-search-list=".list-block-search" data-search-in=".item-title" class="searchbar searchbar-init" style="padding:0px;">
 <div class="searchbar-input">
  <input type="search" style="background-color:#e8e8ea;" placeholder="输入想安装的App名称"><a href="#" class="searchbar-clear"></a>
@@ -1918,7 +1918,7 @@ function download1(id,url) {
 <a href="javascript:void(0)" onclick="download1(51,'https://erjihui.lanzous.com/iru1ff1cuxg')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
-<div class="item-subtitle">已解锁VIPo自行通过手机号码登录</div>
+<div class="item-subtitle">已解锁VIP•自行通过手机号码登录</div>
 <div class="item-subtitle">类型：工具&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所需空间：49.1MB</div>
 </div>
 </div>
@@ -1954,7 +1954,7 @@ function download1(id,url) {
 <a href="javascript:void(0)" onclick="download1(45,'https://erjihui.lanzous.com/i2RiSfalvuh')" class="button button-fill color-blue external" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">安装</a>
 </div>
 </div>
-<div class="item-subtitle">已去广告o可缓存</div>
+<div class="item-subtitle">已去广告•可缓存</div>
 <div class="item-subtitle">类型：影视&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所需空间：28.7MB</div>
 </div>
 </div>
