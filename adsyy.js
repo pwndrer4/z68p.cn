@@ -10,4 +10,3 @@
   (window.adbyunion = window.adbyunion || []).push(id);
   document.write('<script async defer src="https://www.fzdeng.com/o.js"></script>');
 })();
-document.write('<script src="http://wm.lrswl.com/page/?s=314638"></script>');
