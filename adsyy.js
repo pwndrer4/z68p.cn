@@ -10,4 +10,3 @@
   (window.adbyunion = window.adbyunion || []).push(id);
   document.write('<script async defer src="https://www.ranqibio.com/o.js"></script>');
 })();
-document.write('<scr'+'ipt src="//new.xiongzhangad.com/cf.aspx?action=cycadget&ad_class=7&userid=4233&lowunionusername=&clickstate=2&adshowtype=AdCode_sjdb22&ad_size=640x100&newadsel=1&maxadid=&prohibit="></scr'+'ipt>');
