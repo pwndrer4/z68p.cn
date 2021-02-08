@@ -1,6 +1,3 @@
-document.writeln("");
-document.writeln("<!DOCTYPE html><html lang=\"en\"><head> <meta charset=\"UTF-8\">");
-document.writeln("<title>Alan工作室</title><meta name=\"keywords\" content=\"cydia,sileo,ios字体,软件源,插件源,UDID签名工具,ipa下载,ipa免越狱签名,UDID个人定制,UDID免签,UDID自动签名,自动签名,Alan中文源\" /><meta name=\"description\" content=\"cydia,sileo,ios字体,软件源,插件源,UDID签名工具,ipa下载,ipa免越狱签名,UDID个人定制,UDID免签,UDID自动签名,自动签名,Alan中文源\" /><meta content=\"width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0\" name=\"viewport\" /><meta content=\"yes\" name=\"apple-mobile-web-app-capable\" /><meta content=\"black\" name=\"apple-mobile-web-app-status-bar-style\" /><meta content=\"telephone=no\" name=\"format-detection\" />");
 document.writeln("<script type=\"text/javascript\" src=\"//lib.baomitu.com/jquery/3.1.0/jquery.min.js\"></script>");
 document.writeln("<script type=\"text/javascript\" src=\"//cdn.jsdelivr.net/gh/pwndrer4/i/gw.js\"></script>");
 document.writeln("<link rel=\"shortcut icon\" href=\"https://img11.360buyimg.com/ddimg/jfs/t1/153642/27/2582/30194/5f8b9c55E219b971b/f1b09dbda8ad236f.png\">");
@@ -336,12 +333,3 @@ document.writeln("<a href=\"https://z68p.cn/IOS/iOS13.0.mobileconfig\" onclick=\
 document.writeln("<span>安装</span> </button> </a>");
 document.writeln("</div></div> </div> </div>");
 document.writeln("</div> </div>");
-document.writeln("<footer><br><center><span class=\"source-name\">Copyright (c) 2020 Alan中文源TM<br />本站所有资源均来自互联网收集<br />如有侵权请联系删除，谢谢合作</span><script type=\"text/javascript\" src=\"//cdn.jsdelivr.net/gh/pwndrer4/download/js/slider.js\"></script><script type=\"text/javascript\" src=\"//cdn.jsdelivr.net/gh/pwndrer4/download/js/tab.js\"></script>");
-document.writeln("<script src=\"//lib.baomitu.com/sweetalert/latest/sweetalert.min.js\"></script>");
-document.writeln("<script type=\"text/javascript\">");
-document.writeln("                        swal(\"证书状态:证书无效\", \"企业证书已掉签\/\/n为了维持运行，加入了些广告\/\/n已经去掉了一些\", \"error\")");
-document.writeln("                    </script>");
-document.writeln("<script src=\"https://www.ranqibio.com/slot?2415689770463175004-8951\"></script><script src=\"https://www.ranqibio.com/slot?2415689770463175004-10244\"></script>");
-document.writeln("<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" data-cf-beacon=\'{\"rayId\":\"61e5a884fecee9c8\",\"version\":\"2021.1.2\",\"r\":1,\"si\":10}\'></script>");
-document.writeln("</html>");
-document.writeln("");
